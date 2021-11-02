@@ -1,6 +1,6 @@
 ### Hi there I'm JP 👋
 
-### 🌱 I’m currently learning Web development, focusing now on getting a broad and basic undertanding of the Full-stack experience: JavaScript in general (dipping slowly into TypeScript), Frontend with React, and Backend with NodeJS / Express.
+🌱 I’m currently learning Web development, focusing now on getting a broad and basic undertanding of the Full-stack experience: JavaScript in general (dipping slowly into TypeScript), Frontend with React, and Backend with NodeJS / Express.
 
 <!--
 **bernardjp/bernardjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
