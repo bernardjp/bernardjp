@@ -70,7 +70,8 @@ While I’m currently learning all the tooling detailed above, I'm keeping an ey
 ### - React ecosystem and Data Visualisation:
 <p align="left">
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
+    <!-- <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> -->
+    <img src="./assets/next-js-icon.png" alt="nextjs" width="40" />
   </a>
   <a href="https://redux.js.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
@@ -139,7 +140,7 @@ While I’m currently learning all the tooling detailed above, I'm keeping an ey
   </a>
 </p>
 
-<br>
+---
 
 <!--
 **bernardjp/bernardjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
