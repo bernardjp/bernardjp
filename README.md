@@ -7,9 +7,7 @@
 # **Languages and Tools**
 I’m currently learning Web development, focusing now on getting a broad and basic undertanding of the Full-stack experience: JavaScript in general (dipping slowly into TypeScript), Frontend with React, and Backend with NodeJS / Express.
 
-<!-- #### - Languages and Frameworks: -->
-| Languages and Frameworks|
-| :-: |
+#### - Languages and Frameworks:
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
@@ -28,9 +26,7 @@ I’m currently learning Web development, focusing now on getting a broad and ba
   </a>
 </p>
 
-<!-- #### - Databases *(through Sequelize and Mongoose):* -->
-| Databases *(through Sequelize and Mongoose)* |
-| :-: |
+#### - Databases *(through Sequelize and Mongoose):*
 <p>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
@@ -40,9 +36,7 @@ I’m currently learning Web development, focusing now on getting a broad and ba
   </a>
 <p>
 
-<!-- #### - Tooling and testing: -->
-| Tooling and testing |
-| :-: |
+#### - Tooling and testing:
 </p>
   <a href="https://www.cypress.io" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="30" height="30"/>
@@ -58,9 +52,7 @@ I’m currently learning Web development, focusing now on getting a broad and ba
   </a>
 <p>
 
-<!-- #### - Design: -->
-| Design |
-| :-: |
+#### - Design:
 </p>
   <a href="https://www.photoshop.com/en" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/>
