@@ -1,11 +1,9 @@
 ## **Hi there I'm JP** 👋
 
-🌱 I’m currently learning Web development, focusing now on getting a broad and basic undertanding of the Full-stack experience: JavaScript in general (dipping slowly into TypeScript), Frontend with React, and Backend with NodeJS / Express.
-
-<br>
+💡 I’m a former Architect from Argentina walking my first steps in the Software Development world. Down this road I found that both of this disciplines share multiple facets: the use of problem-solving skills, abstract and critical thinking, and a fine balance between logic and creativity among other things. It's in my interest now to apply all of those skills to explore this new and exciting world. 
 
 # **Languages and Tools**
-I’m currently learning Web development, focusing now on getting a broad and basic undertanding of the Full-stack experience: JavaScript in general (dipping slowly into TypeScript), Frontend with React, and Backend with NodeJS / Express.
+🌱 I’m currently learning Web development, a field where I think I can leverage my past experience as architect, focusing now on getting a broad and basic undertanding of the Full-stack experience: JavaScript in general (dipping slowly into TypeScript), Frontend with ReactJS, and Backend with NodeJS / Express.
 
 #### - Languages and Frameworks:
 <p align="left">
@@ -61,8 +59,6 @@ I’m currently learning Web development, focusing now on getting a broad and ba
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/>
   </a>
 </p>
-
-<br>
 
 # **Looking to the future**
 While I’m currently learning all the tooling detailed above, I'm keeping an eye on all the tools below.
