@@ -1,3 +1,5 @@
+![bernardjp](/assets/BANNER_04.jpg)
+
 ## **Hi there I'm JP** 👋
 
 💡 I’m a former Architect from Argentina walking my first steps in the Software Development world. Down this road I found that both of this disciplines share multiple facets: the use of problem-solving skills, abstract and critical thinking, and a fine balance between logic and creativity among other things. It's in my interest now to apply all of those skills to explore this new and exciting world. 
