@@ -1,4 +1,4 @@
-![bernardjp](/assets/BANNER_04.jpg)
+![bernardjp](/assets/BANNER_06.jpg)
 
 ## **Hi there I'm JP** 👋
 
